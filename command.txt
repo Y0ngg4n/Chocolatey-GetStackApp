@@ -1,0 +1,1 @@
+choco push getstack-app.3.11.0.nupkg -s https://chocolatey.org/ -k="'c1b47db4-92a0-4208-aef5-60b6eb5c5684'"
